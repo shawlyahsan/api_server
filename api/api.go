@@ -1,12 +1,13 @@
 package api
 
 import (
-	"api_server/auth"
 	"encoding/json"
 	"log"
 	"net/http"
 	"strconv"
 	"sync"
+
+	"github.com/shawlyahsan/api_server/auth"
 
 	"github.com/gorilla/mux"
 )

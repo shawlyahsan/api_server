@@ -1,4 +1,4 @@
-module api_server
+module github.com/shawlyahsan/api_server
 
 go 1.18
 

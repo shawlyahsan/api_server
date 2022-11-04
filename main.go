@@ -1,7 +1,7 @@
 package main
 
 import (
-	"api_server/api"
+	"github.com/shawlyahsan/api_server/api"
 )
 
 func main() {
